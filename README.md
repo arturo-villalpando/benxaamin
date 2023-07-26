@@ -1,6 +1,14 @@
 # benxaamin
 Benxaamin
 
+## Notes
+Faltan muchas mejoras:
+
+- Terminar el actualizar un empleado.
+- Hacer los endpoint de la tabla relacionar, para hacer una relación sin necesidad de editar toda la info del usuario.
+- Mejorar la validación de errores que se tiene que regresar.
+- Y las solicitadas por la prueba.
+
 # Run
 ./vendor/bin/sail 
 
