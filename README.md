@@ -32,14 +32,14 @@ Generar usuario con (Post -> body -> form-data):
 POST: http://localhost:8000/api/employee
 
 "name": "Arturo",
-"email": "arturo.villalpando@gmail.com",
-"position": "CEO",
+"email": "arturo.d@gmail.com",
+"position": "Developer",
 "birthday": "20/10/1985",
-"address": "Tauro 128",
-"address2": "Villas del sol",
-"city": "Zacatecas",
+"address": "Mintral 128",
+"address2": "Villae",
+"city": "Aguascalientes",
 "country": "Mexico",
-"cp": "98067"
+"cp": "96000"
 "skills": "[{ "Futball": 5 },{ "Basketball": 5 }]"
 
 ## List employees
